@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hey there! Welcome to my Github 🤙
 
 - 🔭 I’m currently working as a Junior Front End Developer.
 - 🌱 I’m currently learning with a Full Stack focus. Includes React, Next.js and MongoDB.
